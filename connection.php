@@ -1,5 +1,5 @@
 <?php
-//test to see if changes are pushed        
+//test2 to see if changes are pushed        
         $host = "localhost";  
         $user = "root";  
         $password = 'Vmanisyourmans12';  
