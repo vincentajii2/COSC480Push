@@ -1,2 +1,1 @@
-# COSC480Push
-Push
+Check master branch
