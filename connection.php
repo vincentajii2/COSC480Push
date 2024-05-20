@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 <?php
 //test2 to see if changes are pushed        
-=======
-<?php      
->>>>>>> 5ba85972db8d5ceb7110b080959c97c828c680d8
         $host = "localhost";  
         $user = "root";  
         $password = 'Vmanisyourmans12';  
