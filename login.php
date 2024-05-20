@@ -25,5 +25,5 @@
         else{  
             echo "<h1> Login failed. Invalid username or password.</h1>";
             
-
+            echo'<a href = "index.html"><button>Go Back</button></a>';
         }     
